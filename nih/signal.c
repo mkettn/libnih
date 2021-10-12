@@ -87,7 +87,7 @@ static const SignalName signal_names[] = {
 	{ SIGSTKFLT, "STKFLT" },
 #endif
 	{ SIGCHLD,   "CHLD"   },
-	{ SIGCLD,    "CLD"    },
+	{ SIGCHLD,   "CLD"    },
 	{ SIGCONT,   "CONT"   },
 	{ SIGSTOP,   "STOP"   },
 	{ SIGTSTP,   "TSTP"   },
