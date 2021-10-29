@@ -60,3 +60,4 @@ Makefile.in.in
 /nih-dbus-tool/tests/com.netsplit.Nih.Test_object.h
 /nih-dbus-tool/tests/com.netsplit.Nih.Test_proxy.c
 /nih-dbus-tool/tests/com.netsplit.Nih.Test_proxy.h
+build/
